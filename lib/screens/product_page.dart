@@ -1,4 +1,4 @@
-import 'package:exammm3/screens/Product_page/widget/product_item.dart';
+import 'package:exammm3/screens/product_item.dart';
 import 'package:exammm3/model/category_model.dart';
 import 'package:exammm3/model/product_model.dart';
 import 'package:exammm3/model/sql_product_model.dart';

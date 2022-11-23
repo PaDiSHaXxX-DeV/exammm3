@@ -1,4 +1,4 @@
-import 'package:exammm3/screens/category/widget/categorey_item.dart';
+import 'package:exammm3/screens/categorey_item.dart';
 import 'package:exammm3/model/category_model.dart';
 import 'package:exammm3/screens/constant.dart';
 import 'package:exammm3/myreP.dart';

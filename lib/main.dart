@@ -1,5 +1,5 @@
 import 'package:exammm3/rout.dart';
-import 'package:exammm3/screens/Nav_Bar/navigation_bar.dart';
+import 'package:exammm3/screens/navigation_bar.dart';
 
 import 'package:exammm3/screens/constant.dart';
 import 'package:flutter/material.dart';

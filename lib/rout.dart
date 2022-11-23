@@ -1,8 +1,8 @@
-import 'package:exammm3/screens/Nav_Bar/navigation_bar.dart';
-import 'package:exammm3/screens/Product_page/product_page.dart';
+import 'package:exammm3/screens/navigation_bar.dart';
 import 'package:exammm3/model/category_model.dart';
 import 'package:exammm3/screens/constant.dart';
 import 'package:exammm3/myreP.dart';
+import 'package:exammm3/screens/product_page.dart';
 import 'package:flutter/material.dart';
 
 

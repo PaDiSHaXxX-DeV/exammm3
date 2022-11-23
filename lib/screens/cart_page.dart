@@ -1,4 +1,4 @@
-import 'package:exammm3/screens/carts/widget/cart_item.dart';
+import 'package:exammm3/screens/cart_item.dart';
 import 'package:exammm3/model/sql_product_model.dart';
 import 'package:exammm3/myreP.dart';
 import 'package:flutter/material.dart';

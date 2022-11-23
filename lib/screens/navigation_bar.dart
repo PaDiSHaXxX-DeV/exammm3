@@ -1,6 +1,6 @@
 import 'package:exammm3/myreP.dart';
-import 'package:exammm3/screens/carts/cart_page.dart';
-import 'package:exammm3/screens/category/categorey_page.dart';
+import 'package:exammm3/screens/cart_page.dart';
+import 'package:exammm3/screens/categorey_page.dart';
 import 'package:exammm3/service.dart';
 import 'package:flutter/material.dart';
 
